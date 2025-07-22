@@ -48,6 +48,7 @@ Dentro de um contexto de **Marketing Digital e análise de funis de vendas**, es
 #### 📊 Dashboard:
 
 > 🔗 **[Dashboard do Desafio técnico](https://lookerstudio.google.com/reporting/c4bd0565-98cb-42b7-9c8c-d38f5d0322a5)**
+> > ![Print do Dashboard]([https://i.imgur.com/ExemploImagem.png](https://www.notion.so/Parte-visual-Desafio-t-cnico-HP-2385f5cdf62e80d88a3ac94c142c2b4c?v=2385f5cdf62e801f86cd000c4a5471f6&source=copy_link))
 
 
 
