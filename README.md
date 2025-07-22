@@ -47,7 +47,8 @@ Dentro de um contexto de **Marketing Digital e análise de funis de vendas**, es
 
 #### 📊 Dashboard:
 
-> 🔗 **[Dashboard do Desáfio técnico]([https://lookerstudio.google.com/reporting/c4bd0565-98cb-42b7-9c8c-d38f5d0322a5])**
+> 🔗 **[Dashboard do Desafio técnico](https://lookerstudio.google.com/reporting/c4bd0565-98cb-42b7-9c8c-d38f5d0322a5)**
+
 
 
 
