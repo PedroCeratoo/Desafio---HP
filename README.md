@@ -11,7 +11,7 @@ Dentro de um contexto de **Marketing Digital e análise de funis de vendas**, es
 ## ⏱️ Tempo estimado de execução
 
 - ⌛ Entrega: **até 2 dias**
-- ✅ Tempo gasto: **_coloque aqui o total de horas ou dias que você levou_**
+- ✅ Tempo gasto: ** Aproximadamente 4 horas**
 
 ---
 
