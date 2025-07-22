@@ -47,12 +47,9 @@ Dentro de um contexto de **Marketing Digital e análise de funis de vendas**, es
 
 #### 📊 Dashboard:
 
-> 🔗 **![Clique aqui para acessar o Dashboard no Looker Studio]([https://lookerstudio.google.com/reporting/c4bd0565-98cb-42b7-9c8c-d38f5d0322a5])**
+> 🔗 **[Dashboard do Desáfio técnico]([http://exemplo.com/](https://lookerstudio.google.com/reporting/c4bd0565-98cb-42b7-9c8c-d38f5d0322a5))**
 
-#### 🖼️ Visual do Dashboard:
 
-![Dashboard Screenshot](<img width="1567" height="875" alt="image" src="https://github.com/user-attachments/assets/d15d1ad0-6ea6-451f-86bd-63413f75ae19" />
-)
 
 ---
 
