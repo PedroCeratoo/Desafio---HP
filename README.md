@@ -57,5 +57,22 @@ Dentro de um contexto de **Marketing Digital e análise de funis de vendas**, es
 
 #### 🧱 Schema utilizado:
 
+#
+
+A segunda etapa do desafio pedia que os dados da planilha fossem inseridos em um banco de dados local, com o objetivo de realizar análises utilizando SQL.
+Foram propostas duas perguntas principais: identificar qual campanha trouxe o maior número de leads no período total e qual apresentou o melhor custo por lead (CPL).
+
+Para isso, foi criado um schema no PostgreSQL com base na estrutura da planilha original. Em seguida, foram elaboradas consultas SQL que permitiram responder às perguntas de forma objetiva, utilizando funções agregadas e cláusulas de ordenação e filtragem.
+
+As respostas obtidas estão acompanhadas dos prints das queries e resultados diretamente do banco, garantindo a transparência e rastreabilidade da análise realizada.
+
+## Qual Campanha trouxe mais leads no período total
+
 <img width="1542" height="846" alt="image" src="https://github.com/user-attachments/assets/5d6c0179-7ba2-4e72-b05f-d56ba9bbd4ae" />
+
+## Qual Campanha tem melhor CPL no período total
+
+<img width="1546" height="851" alt="image" src="https://github.com/user-attachments/assets/3c08da64-720e-4fc9-9b73-f736b24388cc" />
+
+
 
