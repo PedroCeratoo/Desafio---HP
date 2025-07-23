@@ -48,6 +48,9 @@ Dentro de um contexto de **Marketing Digital e análise de funis de vendas**, es
 #### 📊 Dashboard:
 
 > 🔗 **[Dashboard do Desafio técnico](https://lookerstudio.google.com/reporting/c4bd0565-98cb-42b7-9c8c-d38f5d0322a5)**
+
+<img width="1341" height="754" alt="image" src="https://github.com/user-attachments/assets/c81f177c-c7f3-4e1b-bb09-288c2c0a56b6" />
+
 ---
 
 ### 🛢️ Parte 2 – Análise SQL com Banco de Dados Local
