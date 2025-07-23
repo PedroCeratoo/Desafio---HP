@@ -49,7 +49,7 @@ Dentro de um contexto de **Marketing Digital e análise de funis de vendas**, es
 
 > 🔗 **[Dashboard do Desafio técnico](https://lookerstudio.google.com/reporting/c4bd0565-98cb-42b7-9c8c-d38f5d0322a5)**
 
-<img width="1341" height="754" alt="image" src="https://github.com/user-attachments/assets/c81f177c-c7f3-4e1b-bb09-288c2c0a56b6" />
+<img width="1534" height="848" alt="image" src="https://github.com/user-attachments/assets/d9dc5dc0-bbe0-41ec-ae59-c0e7a5f48f17" />
 
 ---
 
@@ -74,5 +74,24 @@ As respostas obtidas estão acompanhadas dos prints das queries e resultados dir
 
 <img width="1546" height="851" alt="image" src="https://github.com/user-attachments/assets/3c08da64-720e-4fc9-9b73-f736b24388cc" />
 
+### 🧩 FASE 2: Integrações e Python
+
+Na última etapa do desafio técnico, foi solicitado que realizássemos a integração com uma API REST pública, a fim de coletar dados da última semana e armazená-los em uma planilha. Para isso, optei por utilizar a API pública do CoinGecko, que fornece dados históricos de preços de diversas criptomoedas sem necessidade de autenticação.
+
+## 🌐 API Utilizada
+> **Nome:** CoinGecko API
+> **Documentação oficial:** https://www.coingecko.com/en/api/documentation
+> **Endpoint usado:** https://api.coingecko.com/api/v3/coins/{coin}/market_chart/range
+
+## 🐍 Lógica e Script em Python
+
+> Define uma lista de criptomoedas para monitorar (bitcoin, ethereum, solana, ripple, cardano).
+> Calcula os timestamps dos últimos 7 dias.
+> Para cada moeda, consulta o histórico de preços.
+> Formata os dados em uma tabela com coin, date e price_usd.
+> Exporta o resultado para um arquivo CSV: precos_criptos_desafioHP.csv.
+
+<img width="1026" height="859" alt="image" src="https://github.com/user-attachments/assets/0342e04a-5d8f-4349-b260-ff7d7f467c0a" />
+# O resultado foi uma planilha com os o nome das moedas, data e hora de coleta de preço, na última semana, e os preços em dólar: (https://docs.google.com/spreadsheets/d/1bFF1f70WXiPso4YR2_w2NaW8fSiTRe--2S8huyah54I/edit?usp=sharing)
 
 
