@@ -53,3 +53,6 @@ Dentro de um contexto de **Marketing Digital e análise de funis de vendas**, es
 ### 🛢️ Parte 2 – Análise SQL com Banco de Dados Local
 
 #### 🧱 Schema utilizado:
+
+<img width="1542" height="846" alt="image" src="https://github.com/user-attachments/assets/5d6c0179-7ba2-4e72-b05f-d56ba9bbd4ae" />
+
